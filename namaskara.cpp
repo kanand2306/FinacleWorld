@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-cout<<"Namaskara GIT"<<endl;
+cout<<"Namaskara GIT v2"<<endl;
 return 0;
 }
